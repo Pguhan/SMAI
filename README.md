@@ -1,1 +1,2 @@
-# SMAI
+# actionrecognisation
+Fully trainable model. 
